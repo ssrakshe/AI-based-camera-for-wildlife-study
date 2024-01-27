@@ -10,3 +10,5 @@ The algorithm achieved an impressive accuracy of 86% on the training and test da
 𝐓𝐞𝐜𝐡 𝐒𝐭𝐚𝐜𝐤-
 Python, Convolutional Neural Networks(CNN), Deep Learning, TenserFlow, Keras, os
 
+CONTACT ME:
+[Shubham Suresh Rakshe- www.linkedin.com/in/shubham-rakshe-861842193]
