@@ -8,7 +8,10 @@ Forest Area like Sanjay-Gandhi national park Mumbai, Where leopards are having d
 The algorithm achieved an impressive accuracy of 86% on the training and test data. This performance demonstrates the prospect of this system to accurately detect the leopard species. In conclusion, a camera powered by AI algorithms which not only captures wildlife images but also provides classification of animal species is proposed & developed.
 
 𝐓𝐞𝐜𝐡 𝐒𝐭𝐚𝐜𝐤-
-Python, Convolutional Neural Networks(CNN), Deep Learning, TenserFlow, Keras, os
+Python, Convolutional Neural Networks(CNN), Deep Learning, TenserFlow, Keras, os<br>
+
+To get end to end description of the project click below blog link:<br>
+https://shubhamrakshe542.medium.com/design-and-development-of-ai-based-camera-for-wildlife-study-c15acaf17ae4
 
 CONTACT ME:
 [Shubham Suresh Rakshe- www.linkedin.com/in/shubham-rakshe-861842193]
